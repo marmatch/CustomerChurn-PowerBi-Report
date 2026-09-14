@@ -12,10 +12,10 @@ Customer churn is one of the most critical metrics for subscription-based busine
 ## 📸 Dashboard Preview
 
 ### 1. Executive Summary & Churn Metrics
-![Executive Summary](./screenshot_kpi.png)
+![Executive Summary](./screenshot_kpi.png.png)
 
 ### 2. Customer Demographics & Behavior Analysis
-![Demographics & Services](./screenshot_demographics.png)
+![Demographics & Services](./screenshot_demographics.png.png)
 
 ---
 
